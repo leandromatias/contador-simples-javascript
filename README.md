@@ -1,1 +1,1 @@
-# contador-simples-javascript
+# Contador simples em javascript
